@@ -3,7 +3,7 @@
 ## My First Game coded in Unity with C#
 ### End result of the Create With Code Unity course  
 ----------------
-Here I've pasted the C# Scripts I used for my first ever game designed in Unity.
+Here I've pasted the C# Scripts I used for my first ever game designed in Unity. All assets were freely available from the Unity Asset store, except for the V2 model which I modelled in Blender and have added here.
 
 
 
