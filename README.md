@@ -8,7 +8,7 @@ Here I've pasted the C# Scripts I used for my first ever game designed in Unity.
 
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/LAOLeary/GRainbow/blob/main/GR%20thumbnail.jpg "Logo Title Text 1")
 
 
 Play it for free here:
